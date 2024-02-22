@@ -1,4 +1,4 @@
-#Esse é um projeto em Laravel ainda em progresso
+# Esse é um projeto em Laravel ainda em progresso
 
 php artisan serve
 
